@@ -1,0 +1,9 @@
+.static{
+    position:static;
+    bottom: 0;
+}
+
+.fixed{
+    position:fixed;
+    bottom:0;
+}
